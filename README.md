@@ -1,22 +1,24 @@
 ## hi, i'm eóin
 
-oxford. building on my own since september 2026, after a decade that started in music.
+building on my own in oxford. a decade in music first, then venture, now agents.
 
-**now**
+### now
 
-- **[immiscible](https://immiscible.fly.dev)**: before an agent does something it can't take back, a person gets asked. open source side in [immiscible-sdks](https://github.com/efr7-7/immiscible-sdks), on npm and pypi
-- **[assay-guard](https://github.com/efr7-7/assay-guard)**: local hooks that stop prompt-injected agents leaking your secrets, for claude code, cursor, codex and gemini cli
+**[immiscible](https://immiscible.fly.dev)** · before an agent does something it can't take back, a person gets asked  
+**[assay-guard](https://github.com/efr7-7/assay-guard)** · stops prompt-injected agents leaking your secrets
 
-**before**
+### before
 
-- **mar-sept 2026** · alumni ventures, ai associate to the head of emea, london. left in september to build
-- **2024-25** · electrify video partners, creator partnerships: finding and weighing up creator businesses to acquire
-- **2024** · a1 advisory, vc partnerships
-- **2020-24** · out of hours, artist management. matt mcwaters, please wait, kerri. records with ta-ku, questlove and masego, brand and sync work with nba, adobe and bel-air
-- **2019** · akira records, label operations. henry green, ghostly kisses, phoria
-- **earlier** · taught myself to produce at 12, ran a label from 16
+`2026` &nbsp;[alumni ventures](https://av.vc) · ai associate, emea  
+`2024` &nbsp;[electrify](https://www.electrify.video) · creator partnerships  
+`2024` &nbsp;a1 advisory · vc partnerships  
+`2020` &nbsp;out of hours · artist management  
+`2019` &nbsp;[akira records](https://www.akirarecords.com) · label operations  
+`2015` &nbsp;[surreal recordings](https://surrealrecordings.bandcamp.com) · co-founded at 16
 
-signs things as efr.
+<br>
 
-<a href="https://github.com/efr7-7"><img src="https://streak-stats.demolab.com?user=efr7-7&theme=react&hide_border=true" alt="contribution streak" /></a>
-<a href="https://github.com/efr7-7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efr7-7&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages" /></a>
+<a href="https://github.com/efr7-7"><img src="https://streak-stats.demolab.com?user=efr7-7&theme=react&hide_border=true" alt="contribution streak" height="165" /></a>
+<a href="https://github.com/efr7-7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efr7-7&layout=compact&theme=react&hide_border=true&langs_count=6" alt="top languages" height="165" /></a>
+
+<sub><i>signs things as efr.</i></sub>
