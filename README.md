@@ -9,7 +9,7 @@ oxford. building on my own since september 2026, after a decade that started in 
 
 **before**
 
-- **2026** · alumni ventures, ai associate to the head of emea, london
+- **mar-sept 2026** · alumni ventures, ai associate to the head of emea, london. left in september to build
 - **2024-25** · electrify video partners, creator partnerships: finding and weighing up creator businesses to acquire
 - **2024** · a1 advisory, vc partnerships
 - **2020-24** · out of hours, artist management. matt mcwaters, please wait, kerri. records with ta-ku, questlove and masego, brand and sync work with nba, adobe and bel-air
