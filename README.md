@@ -1,9 +1,20 @@
 ## hi, i'm eóin
 
-building from oxford. a decade in music first, now building for the AI agents people already run.
+oxford. building on my own since september 2026, after a decade that started in music.
+
+**now**
 
 - **[immiscible](https://immiscible.fly.dev)**: before an agent does something it can't take back, a person gets asked. open source side in [immiscible-sdks](https://github.com/efr7-7/immiscible-sdks), on npm and pypi
 - **[assay-guard](https://github.com/efr7-7/assay-guard)**: local hooks that stop prompt-injected agents leaking your secrets, for claude code, cursor, codex and gemini cli
+
+**before**
+
+- **2026** · alumni ventures, ai associate to the head of emea, london
+- **2024-25** · electrify video partners, creator partnerships: finding and weighing up creator businesses to acquire
+- **2024** · a1 advisory, vc partnerships
+- **2020-24** · out of hours, artist management. matt mcwaters, please wait, kerri. records with ta-ku, questlove and masego, brand and sync work with nba, adobe and bel-air
+- **2019** · akira records, label operations. henry green, ghostly kisses, phoria
+- **earlier** · taught myself to produce at 12, ran a label from 16
 
 signs things as efr.
 
