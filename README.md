@@ -10,7 +10,7 @@ building on my own in oxford. a decade in music first, then venture, now agents.
 ### before
 
 **2026** &nbsp;[alumni ventures](https://av.vc) · ai associate, emea  
-**2025** &nbsp;started shipping my own software  
+**2025** &nbsp;started solo-building my own software
 **2024-25** &nbsp;[electrify](https://www.electrify.video) · creator partnerships  
 **2024** &nbsp;a1 advisory · vc partnerships  
 **2020-24** &nbsp;out of hours · artist management  
@@ -20,5 +20,3 @@ building on my own in oxford. a decade in music first, then venture, now agents.
 <br>
 
 <a href="https://github.com/efr7-7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efr7-7&layout=compact&theme=react&hide_border=true&langs_count=6" alt="top languages" height="165" /></a>
-
-<sub><i>signs things as efr.</i></sub>
