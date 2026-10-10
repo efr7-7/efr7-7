@@ -9,12 +9,13 @@ building on my own in oxford. a decade in music first, then venture, now agents.
 
 ### before
 
-`2026` &nbsp;[alumni ventures](https://av.vc) · ai associate, emea  
-`2024` &nbsp;[electrify](https://www.electrify.video) · creator partnerships  
-`2024` &nbsp;a1 advisory · vc partnerships  
-`2020` &nbsp;out of hours · artist management  
-`2019` &nbsp;[akira records](https://www.akirarecords.com) · label operations  
-`2015` &nbsp;[surreal recordings](https://surrealrecordings.bandcamp.com) · co-founded at 16
+**2026** &nbsp;[alumni ventures](https://av.vc) · ai associate, emea  
+**2025** &nbsp;orbe · my first product, creator analytics  
+**2024-25** &nbsp;[electrify](https://www.electrify.video) · creator partnerships  
+**2024** &nbsp;a1 advisory · vc partnerships  
+**2020-24** &nbsp;out of hours · artist management  
+**2019** &nbsp;[akira records](https://www.akirarecords.com) · label operations  
+**2015** &nbsp;[surreal recordings](https://surrealrecordings.bandcamp.com) · co-founded at 16
 
 <br>
 
