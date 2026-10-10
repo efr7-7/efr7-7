@@ -1,28 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <img src="header-light.svg" alt="eóin forker, building on my own in oxford" width="560">
-</picture>
+<img src="terminal.svg" alt="npx immiscible try: an agent's payment is allowed, held for a person, or denied" width="100%">
 
-a decade in music first, then venture, now agents.
-
-### now
-
-**[immiscible](https://immiscible.fly.dev)** · before an agent does something it can't take back, a person gets asked<br>
-**[assay-guard](https://github.com/eoinforker/assay-guard)** · stops prompt-injected agents leaking your secrets
-
-### before
-
-**2026** &nbsp;[alumni ventures](https://av.vc) · ai associate, emea<br>
-**2025** &nbsp;started solo-building my own software<br>
-**2024** &nbsp;[electrify](https://www.electrify.video) · creator partnerships<br>
-**2024** &nbsp;a1 advisory · vc partnerships<br>
-**2020** &nbsp;out of hours · artist management<br>
-**2019** &nbsp;[akira records](https://www.akirarecords.com) · label operations<br>
-**2015** &nbsp;[surreal recordings](https://surrealrecordings.bandcamp.com) · co-founded at 16
-
-<br>
+I build [immiscible](https://immiscible.fly.dev): agents ask a person before they do something they can't take back. Also [assay-guard](https://github.com/eoinforker/assay-guard). Before this: [alumni ventures](https://av.vc), [electrify](https://www.electrify.video), out of hours, [akira records](https://www.akirarecords.com), and [surreal recordings](https://surrealrecordings.bandcamp.com), which I co-founded at 16.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="contributions-dark.svg">
-  <img src="contributions-light.svg" alt="contributions by year since 2020" width="560">
+  <source media="(prefers-color-scheme: dark)" srcset="notebook-dark.svg">
+  <img src="notebook-light.svg" alt="project immiscible, recorded by eoinforker, 2026" width="100%">
 </picture>
