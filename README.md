@@ -4,7 +4,7 @@ I build [immiscible](https://immiscible.ai): agents ask a person before they do 
 
 <a href="https://eoinforker.github.io/idyll-site/"><img src="idyll.svg" alt="Idyll: a cygnet printed in halftone dots" width="56" align="left" hspace="14"></a>
 
-**[idyll](https://eoinforker.github.io/idyll-site/)**, social without the scroll. The feeds come out of nine social apps, and your friends stay. Free, for good. Coming to iPhone, Android and Chrome.
+**[idyll](https://eoinforker.github.io/idyll-site/)**, social without the scroll, for eleven social apps on Android and iPhone: the feeds come out and your friends stay. Free, for good, and nothing leaves your phone. Coming soon, with Chrome too.
 <br clear="left">
 
 <picture>
